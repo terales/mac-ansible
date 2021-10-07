@@ -11,6 +11,6 @@ Getting Started
 2. `brew install python`
 3. `brew install git`
 4. `pip3 install ansible` (always the best way to install Ansible)
-5. `git clone https://github.com/terales/mac-ansible.gitz
+5. `git clone https://github.com/terales/mac-ansible.git`
 6. `cd mac-ansible`
 7. `ansible-playbook ./playbook.yml`
